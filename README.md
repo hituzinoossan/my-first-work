@@ -1,4 +1,4 @@
-﻿# My First GitHub Project
+# My First GitHub Project
 
 ## About Me
 GitHubを勉強中です！
